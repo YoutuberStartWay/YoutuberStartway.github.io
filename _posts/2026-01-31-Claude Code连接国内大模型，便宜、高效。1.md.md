@@ -4,7 +4,7 @@ date: 2026-01-31 00:00:00 +0900
 categories: [资源分享]
 tags: [文档]
 image:
-  path: /assets/img/截屏2026-01-31 16.31.06.png.png
+  path: /assets/img/截屏202601.png
   alt: image alternative text
 ---
 
